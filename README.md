@@ -1,2 +1,5 @@
-# parallel_computing_practice
-Parallel computing practise with OpenMP, MPICH and CUDA
+# Parallel computing practise with OpenMP, MPICH and CUDA 
+
+
+
+
